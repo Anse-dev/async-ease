@@ -1,0 +1,17 @@
+{
+	"name": "async-ease",
+	"version": "1.0.0",
+	"description": "Une librairie qui simplifie la gestion des opérations asynchrones en fournissant une syntaxe concise et expressive, ainsi que des outils pour gérer facilement les erreurs, pourrait grandement aider les développeurs JavaScript à écrire un code plus propre et plus maintenable.",
+	"main": "src/index.ts",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/jest": "^29.5.12",
+		"ts-jest": "^29.1.2",
+		"typescript": "^5.4.5"
+	}
+}
