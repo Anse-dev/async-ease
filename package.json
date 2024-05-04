@@ -7,7 +7,7 @@
 		"test": "jest"
 	},
 	"keywords": [],
-	"author": "",
+	"author": "Anselme | Jean66.anselme",
 	"license": "ISC",
 	"devDependencies": {
 		"@types/jest": "^29.5.12",
